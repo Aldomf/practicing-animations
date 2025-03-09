@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-       
+       <p>Hello world</p>
         
       </div>
       <h1>Vite + React</h1>
